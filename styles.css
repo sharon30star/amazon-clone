@@ -1,0 +1,52 @@
+h1,body,h2{
+    margin: 0rem;
+    padding: 0 rem;
+}
+.items nav{
+    display: flex;
+    text-align: center;
+    gap: 15px;
+    justify-content: center;
+    font-weight: bold;
+}
+.items nav a{
+     justify-content: center;
+    font-weight: bold;
+    background-color: black;
+    color: white;
+
+}
+.items nav a:hover {
+    color: yellowgreen;
+
+}
+header{
+    color: rgb(43, 14, 3);
+    background-color: orangered;
+}
+head{
+     color: rgb(43, 14, 3);
+    background-color: orangered;
+    text-align: center;
+    margin: 0rem;
+    padding: 0rem;
+
+}
+
+h1{
+    text-align: center;
+    background-color: orangered;
+    
+}
+h2{
+    text-align: center;
+    background-color: orangered;
+}
+body{
+    color: antiquewhite;
+    background-color: orangered;
+}
+footer{
+    background-color:black;
+    color:antiquewhite;
+}
